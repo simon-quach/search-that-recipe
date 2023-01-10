@@ -5,12 +5,12 @@ https://search-that-recipe.web.app/
 
 **This website uses a recipe search API from Edamam. This API contains the data of over 2.3 million foods, simply search any type of dish you like and a variety of different recipes will show up.**
 
-## Familiarized myself with:
+**Familiarized myself with:**
 > - ReactJS Hooks (State/Effect)
 > - Asynchronous API (async/await)
 > - JSX, components, props, CSS modules, etc.
 
-Tools used
+**Tools used**
 > ReactJS
 > JavaScript
 > HTML/CSS
