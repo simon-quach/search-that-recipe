@@ -1,5 +1,5 @@
 # Search That Recipe 
-## https://search-that-recipe.web.app/
+https://search-that-recipe.web.app/
 
 **The purpose of this project is to practice ReactJS and API fetching using Axios.**
 
