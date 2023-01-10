@@ -1,0 +1,9 @@
+.title-section {
+  background-color: white;
+  margin-top: 1rem;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+}

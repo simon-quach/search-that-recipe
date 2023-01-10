@@ -1,0 +1,36 @@
+.App {
+  min-height: 100vh;
+}
+
+.search-form {
+  min-height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-bar {
+  width: 70%;
+  border: none;
+  padding: 10px;
+}
+
+.search-button {
+  background: lightcoral;
+  border: none;
+  padding: 10px 20px;
+  color: white;
+  transition: 0.3s;
+}
+
+.search-button:hover {
+  background-color: rgb(223, 107, 107);
+  cursor: pointer;
+}
+
+.recipes {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
