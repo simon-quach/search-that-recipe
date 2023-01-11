@@ -11,10 +11,10 @@ https://search-that-recipe.web.app/
 > - JSX, components, props, CSS modules, etc.
 
 **Tools used**
-> ReactJS
-> JavaScript
-> HTML/CSS
-> Bootstrap 5
-> Deployed with Google Firebase Hosting
+> - ReactJS
+> - JavaScript
+> - HTML/CSS
+> - Bootstrap 5
+> - Deployed with Google Firebase Hosting
 
 ![5d72454d514bcdcd983713435470a2c9](https://user-images.githubusercontent.com/43255108/211684709-594a00fc-dfaf-4a09-9791-77c453fbdfb9.gif)
